@@ -22,12 +22,9 @@
                 <br>
                 ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
             </p>
-            <div align="center">
-                <details>
-                    <summary>     ${\color{#e24a79}{\textsf{spotify embed}}}$     </summary>
-                        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e24a79&bar_color_cover=false"></a>
-                </details>
-            </div>
+             <div align="center">
+                  <a href="https://www.youtube.com/watch?v=_0Pf48RqSsg"><img width="380" alt="Silent Running" src="https://github.com/user-attachments/assets/3f4b47f4-964e-4282-b1aa-a783213f760c" /></a>
+             </div>
             <!-- decoration 1 -->
             <table>
                 <td>
@@ -43,10 +40,12 @@
                     </div>
                 </td>
             </table>
-             <br>
              <div align="center">
-                  <a href="https://www.youtube.com/watch?v=_0Pf48RqSsg"><img width="800" alt="Silent Running" src="https://github.com/user-attachments/assets/3f4b47f4-964e-4282-b1aa-a783213f760c" /></a>
-             </div>
+                <details>
+                    <summary>     ${\color{#e24a79}{\textsf{spotify embed}}}$     </summary>
+                        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e24a79&bar_color_cover=false"></a>
+                </details>
+            </div>
         </td>
     </table>
 </div>
