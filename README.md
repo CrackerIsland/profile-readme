@@ -49,3 +49,17 @@
         </td>
     </table>
 </div>
+
+<details>
+     <summary>genuine proof i am still the same previous owner of user "crackerisland"</summary>
+     <br>
+     <br>
+     picture
+     <br>
+     <img width="960" alt="Screenshot 2026-11-06 094404" src="https://github.com/user-attachments/assets/8cfe6672-14f2-4f75-9a74-d82349b4f6a0" />
+     <br>
+     <br>
+     by the way i legit have a clip
+     <br>
+     here: https://youtu.be/J65_VTO-AZs
+</details>
